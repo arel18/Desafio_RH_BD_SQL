@@ -1,33 +1,5 @@
 # Desafio RH - Criação de Banco de dados e Querys
 
-# 🧩 Atividade SQL – JOIN Externa e JOIN Não-Idêntica
-
-Este repositório contém as atividades práticas de SQL desenvolvidas para a disciplina de **Banco de Dados**, abordando **JOIN Externa** e **JOIN Não-Idêntica**.  
-O banco de dados utilizado foi o **SQL Server (T-SQL)**.
-
----
-
-## 🧱 Banco de Dados Utilizado
-
-**Nome:** `EmpresaRH`
-
-**Tabelas criadas:**
-- `Departamentos`
-- `Funcionarios`
-- `Salario_Nivel`
-- `Nivel_Salarial`
-
----
-
-## 🚀 Desafio 1 – JOIN Externa
-
-### 🧠 Problema:
-O setor de RH precisa de um relatório que liste **todos os departamentos** e quem trabalha em cada um.  
-O departamento **"Inovação"** ainda não possui funcionários, mas deve aparecer na listagem.
-
-### 🎯 Objetivo:
-Gerar uma consulta que traga **todos os departamentos**, exibindo **NULL** no nome do funcionário quando o departamento não tiver colaboradores.
-
 
 # 🧩 Atividade SQL – JOIN Externa e JOIN Não-Idêntica
 
